@@ -16,6 +16,6 @@
 
 ---
 
-[Title](asdf)
+[The Best Bagel Place in Hoboken](https://www.obagel.net)
 
-![alt text](image.jpg)
+![My Favorite Place](![glassylake](https://github.com/jlake503/Design6/assets/116931978/93d8f332-1bee-4689-aa2f-80c671c1d567))
