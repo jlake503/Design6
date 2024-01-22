@@ -1,6 +1,6 @@
 # Design6
-**EE-322 Spring 24**
-*Joe Lake*
+**EE-322**
+*Spring 2024*
 
 > My name is Joe Lake and I am a 3/4 EE with a minor in EM.
 
