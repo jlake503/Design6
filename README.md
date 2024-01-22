@@ -12,9 +12,9 @@
 - I have driven to every state east of the Mississippi River (I have family all over the place)
 - When I grow up, I want to live in a house on a rural beach
 
-'main( ) {
+`main( ){
         printf("hello, world");
-}'
+}`
 
 ---
 
