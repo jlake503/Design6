@@ -18,4 +18,4 @@
 
 [The Best Bagel Place in Hoboken](https://www.obagel.net)
 
-![My Favorite Place]((https://github.com/jlake503/Design6/assets/116931978/f2803c67-cae3-480f-b0d0-e31cd0693453))
+![My Favorite Place]((/jlake503/Design6/assets/116931978/f2803c67-cae3-480f-b0d0-e31cd0693453))
