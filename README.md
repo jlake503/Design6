@@ -12,10 +12,12 @@
 - I have driven to every state east of the Mississippi River (I have family all over the place)
 - When I grow up, I want to live in a house on a rural beach
 
-'code'
+'main( ) {
+        printf("hello, world");
+}'
 
 ---
 
 [The Best Bagel Place in Hoboken](https://www.obagel.net)
 
-![My Favorite Place]((/jlake503/Design6/assets/116931978/f2803c67-cae3-480f-b0d0-e31cd0693453))
+![My Favorite Place](![glassylake](https://github.com/jlake503/Design6/assets/116931978/1e0f156e-85fe-41ac-b7e8-1c3dceb720bf))
