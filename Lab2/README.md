@@ -28,23 +28,23 @@ netstat
 
 ## uname
 ![uname1](https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname1.png)
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname2.png)
+![uname2](https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname2.png)
 
 ## uname -a
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname%20-a.png)
+![uname -a](https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname%20-a.png)
 
 ## ifconfig
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/ifconfig1.png)
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/ifconfig2.png)
+![ifconfig1](https://github.com/jlake503/Design6/blob/main/Lab2/Images/ifconfig1.png)
+![ifconfig2](https://github.com/jlake503/Design6/blob/main/Lab2/Images/ifconfig2.png)
 
 ## localhost
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/localhost1.png)
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/localhost2.png)
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/localhost3.png)
+![localhost1](https://github.com/jlake503/Design6/blob/main/Lab2/Images/localhost1.png)
+![localhost2](https://github.com/jlake503/Design6/blob/main/Lab2/Images/localhost2.png)
+![localhost3](https://github.com/jlake503/Design6/blob/main/Lab2/Images/localhost3.png)
 
 ## netstat
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/netstat1.png)
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/netstat2.png)
+![netstat1](https://github.com/jlake503/Design6/blob/main/Lab2/Images/netstat1.png)
+![netstat2](https://github.com/jlake503/Design6/blob/main/Lab2/Images/netstat2.png)
 
 
 
