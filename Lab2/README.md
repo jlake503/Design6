@@ -27,7 +27,7 @@ netstat
 ```
 
 ## uname
-!(https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname1.png)
+![uname1](https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname1.png)
 !(https://github.com/jlake503/Design6/blob/main/Lab2/Images/uname2.png)
 
 ## uname -a
