@@ -1,6 +1,6 @@
 # Lab 7
 
-In Lab 7, students will use ThinkSpeak and Google Cloud Platform Identiy and Access Management.  
+In Lab 7, students will use ThinkSpeak and Google Cloud Platform Identiy and Access Management to collect CPU data.  
 
 ## 7A ThingSpeak
 ![thingspeak](https://github.com/jlake503/Design6/blob/main/Lab7/Images/thingspeak.png)
