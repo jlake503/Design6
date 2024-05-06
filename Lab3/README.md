@@ -1,5 +1,5 @@
 # Lab 3
-In Lab 3, students shall study the Lesson 3 repository and install several Python packages, such as jdcal, astral, geopy, pytz, and psutil.  Students shall then use the command line to execute a series of commands as following:
+In Lab 3, students will study the Lesson 3 repository and install several Python packages, such as jdcal, astral, geopy, pytz, and psutil.  Students will then use the command line to execute a series of commands as following:
 
 ```
 cd ~/iot
