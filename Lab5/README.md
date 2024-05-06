@@ -9,6 +9,7 @@ In Lab 5, students shall use the Lesson 5 repository to undertand Publish-Subscr
 ![git pull](https://github.com/jlake503/Design6/blob/main/Lab5/Images/git%20pull.png)
 
 ## Terminal 1: subcpu
+The spike in CPU usage corresponds with the opening of several applications.
 ![subcpu](https://github.com/jlake503/Design6/blob/main/Lab5/Images/subcpu.png)
 
 ## Terminal 2: pubcpu
