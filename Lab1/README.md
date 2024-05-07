@@ -2,9 +2,6 @@
 
 In Lab 1 students will use the GHDL folder and install GHDL and GTKWave.  Students will also run the Half Adder, Full Adder, and D Flip-Flop example.
 
-## Install GHDL and GTKWave
-
-
 ## Half Adder
 ![half](https://github.com/jlake503/Design6/blob/main/Lab1/images/halfadder.png)
 ![commands1](https://github.com/jlake503/Design6/blob/main/Lab1/images/commands.png)
